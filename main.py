@@ -9,3 +9,5 @@ def main():
 a = True
 if a:
   print('b')
+  
+# Копия 
